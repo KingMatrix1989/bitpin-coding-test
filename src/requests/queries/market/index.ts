@@ -1,0 +1,1 @@
+export { useGetAllMarketsQuery } from "./marketsListQuery";
